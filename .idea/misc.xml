@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/MZC12345/AndroidStudioProjects/ProductAppMzc/app/src/main/res/drawable/buttonbck.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/MZC12345/AndroidStudioProjects/ProductAppMzc/app/src/main/res/drawable/company.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/MZC12345/AndroidStudioProjects/ProductAppMzc/app/src/main/res/drawable/product.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/MZC12345/AndroidStudioProjects/ProductAppMzc/app/src/main/res/drawable/productbck.xml" value="0.10989583333333333" />
         <entry key="..\:/Users/MZC12345/AndroidStudioProjects/ProductAppMzc/app/src/main/res/layout/activity_add_products.xml" value="0.1" />
         <entry key="..\:/Users/MZC12345/AndroidStudioProjects/ProductAppMzc/app/src/main/res/layout/activity_main.xml" value="0.12273550724637682" />
         <entry key="..\:/Users/MZC12345/AndroidStudioProjects/ProductAppMzc/app/src/main/res/layout/activity_search_product.xml" value="0.1" />
